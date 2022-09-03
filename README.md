@@ -7,6 +7,7 @@ Ricing the easy way!
 If you don't want the default theme to load after a reboot,just take it out the autostart!
 If you need more software,than there is AmOsLinux-Software Installer in the home folder for you which will install Gpu driver for nvidia and amd,linux zen kernel and lots of apps !
 
+![animatedGIF](https://user-images.githubusercontent.com/83895060/188250552-db1e6158-4f77-423c-8688-d0d7ae16a720.gif)
 
 Supporting The Project
 
